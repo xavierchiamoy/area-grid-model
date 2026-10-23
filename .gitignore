@@ -1,0 +1,35 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# PyInstaller build outputs and machine-specific metadata
+build/
+dist/
+*.log
+
+# Local editor and OS files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Generated previews and temporary exports
+preview.png
+preview_*.png
+vertical_preview.png
+
+# Credentials and local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json

@@ -1,0 +1,2 @@
+# Runtime dependency used by the "保存为图片" feature.
+Pillow==12.3.0

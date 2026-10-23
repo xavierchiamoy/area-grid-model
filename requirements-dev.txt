@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# Required only when building a Windows executable from a .spec file.
+PyInstaller==6.21.0
